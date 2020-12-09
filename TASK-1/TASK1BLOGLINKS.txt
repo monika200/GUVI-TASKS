@@ -1,0 +1,16 @@
+JAVASCRIPT
+TASK-1
+Q:1 How do you copy by value a composite data type?
+https://monika2004sharma.medium.com/how-do-you-copy-by-value-a-composite-data-type-in-javascript-1eedc9ee8aa4
+
+Q:2. Difference between HTTP1.1 vs HTTP2
+https://monika2004sharma.medium.com/difference-between-http1-1-vs-http2-99bad88c65d8
+
+Q:3.  Why there is a difference in behavior for copying contents in primitive and non primitive type?
+https://monika2004sharma.medium.com/why-there-is-a-difference-in-behavior-for-copying-contents-in-primitive-and-non-primitive-data-853e90987238
+
+Q:4.  Objects and its internal representation in Javascript?
+https://medium.com/@monika2004sharma/objects-and-its-internal-representation-in-javascript-2639cec0261a
+
+Q:6. What is the difference between window, screen, and document in Javascript?
+https://medium.com/@monika2004sharma/what-is-the-difference-between-window-screen-and-document-in-javascript-dc3fbe99237e
