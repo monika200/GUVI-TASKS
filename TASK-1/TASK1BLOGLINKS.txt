@@ -4,7 +4,7 @@ Q:1 How do you copy by value a composite data type?
 https://monika2004sharma.medium.com/how-do-you-copy-by-value-a-composite-data-type-in-javascript-1eedc9ee8aa4
 
 Q:2. Difference between HTTP1.1 vs HTTP2
-https://monika2004sharma.medium.com/difference-between-http1-1-vs-http2-99bad88c65d8
+https://medium.com/@monika2004sharma/http1-1-vs-http2-whats-the-difference-d8c15c52229a
 
 Q:3.  Why there is a difference in behavior for copying contents in primitive and non primitive type?
 https://monika2004sharma.medium.com/why-there-is-a-difference-in-behavior-for-copying-contents-in-primitive-and-non-primitive-data-853e90987238
