@@ -1,3 +1,3 @@
-TASK2.1
+TASK2.2
 
-Print odd numbers in an array 
+Convert all the strings to title caps in a string array 
