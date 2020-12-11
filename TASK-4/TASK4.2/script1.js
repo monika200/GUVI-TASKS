@@ -11,8 +11,8 @@ request.onload = function() {
    var lat = data[0].latlng[0];
    var long = data[0].latlng[1];
    var nam = data[10].name;
-   getweather(lat ,long);
-   getweathercity(nam);
+   getweathergeo(lat ,long);
+   getweathercityname(nam);
 }
 function getweathergeo(lat, long){
 var request = new XMLHttpRequest() //object to request Http connection
