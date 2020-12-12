@@ -6,8 +6,8 @@ var primeArray=function prime(array){
     for(var n in array){
     for(var i=2;i<array[n];i++){
         var c=1;
-        if(array[n]%i===0){c*=0;break}
-        else c*=1;
+        if(array[n]%i===0){c=0;break}
+        else c=1;
     }
     if(c===1)newArray.push(array[n]);
     else if(array[n]===2)newArray.push(array[n]);
