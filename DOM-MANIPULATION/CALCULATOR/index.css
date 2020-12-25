@@ -1,0 +1,75 @@
+.head1{color: #fff;}
+.div1{
+        margin: 0 auto;
+        }  
+.div2{
+            padding: 20px;
+            background: #191717;
+            width: 250px;
+            border-radius: 20px;
+            box-shadow: 10px 10px 5px #888888;	  
+            margin: 10px auto;
+            }
+#input1{ width:100%; 
+        height: 50px; 
+        border:1px solid #000; 
+        background: #ddded9; 
+        font-size: 30px; 
+        text-align: right;
+        color:black;
+        margin: 0 auto;
+    }
+    .btn-container {
+		margin: 10px 5px;
+		background: #23079c;
+}
+
+.btn {
+		height: 40px;
+		width: 40px;
+        padding: 10px; 
+        background: #291616; 
+        color: #fff; 
+		border: none;
+        margin: 10px; 
+        font-size: 15px;    
+		box-shadow: 1px 1px 1px grey;
+
+        }
+
+.btn:hover {background-color:red}
+.btn:active {
+    background-color:green;
+    box-shadow: 0 5px #666;
+    transform: translateY(2px);
+  }
+  .eqbtn {
+    width:120px;
+    height: 40px;
+    background: orange;
+}
+.eqbtn:hover {background-color: red;}
+
+.eqbtn:active {
+background-color: #013e01;
+box-shadow: 0 5px #666;
+transform: translateY(2px);
+}
+.cbtn {
+    background:orange; 
+    height: 40px;
+    width: 40px;
+    padding:10px;
+    color: #fff; 
+    border: none;
+    margin: 10px; 
+    font-size: 15px;    
+    box-shadow: 1px 1px 1px grey;
+}
+.cbtn:hover {background-color: #b70505}
+
+.cbtn:active {
+background-color: green;
+box-shadow: 0 5px #666;
+transform: translateY(2px);
+}
