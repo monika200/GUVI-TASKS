@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: whitesmoke;
+    color: black;
+}
+.first{
+    margin: 20px;
+}
+.span1{
+    font-weight: lighter; 
+}
+
+table{
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+@media screen and( min-width:567px){
+    .row1{
+        width:100%
+    }
+}
