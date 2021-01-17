@@ -26,7 +26,7 @@
 .main{
     background-image: url("./Images/image14.jpg");
     width: 100vw;
-    height:80vh;
+    height:85vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 }
 .bannaroverlay{
     width: 100vw;
-    height: 80vh;
+    height: 85vh;
     background-color: rgba(0, 0, 0, 0.5);
     position: absolute;
 }
@@ -80,6 +80,9 @@
 }
 
 
+section{
+    margin-top: 90vh;
+}
 
 .header{
     font-size: 2.0rem;
@@ -138,7 +141,7 @@ ul{
 .recipes{
     width: 100vw;
     background-image: url("./Images/image15.png");
-    height: 80vh;
+    height: 85vh;
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -147,7 +150,7 @@ ul{
 .recipes-overlay{
     background-color: rgba(0, 0, 0, 0.500);
     width: 100vw;
-    height: 80vh;
+    height: 85vh;
     position: absolute;
 }
 .link-margin{
