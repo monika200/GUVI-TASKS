@@ -4,4 +4,4 @@ Display countdown from 10 to 1 on the screen and then display Happy Independence
 
 Deplyment URl:
 
-https://app.netlify.com/sites/countdownmessage/overview
+https://countdownmessage.netlify.app/
